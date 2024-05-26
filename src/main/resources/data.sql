@@ -1,0 +1,2 @@
+INSERT INTO item (name,description,enabled,price) VALUES ('tv','televisor samsung 47',true,45000.39);
+INSERT INTO item (name,description,enabled,price) VALUES ('tablet','tablet samsung galaxy',true,600000.50);
